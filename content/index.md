@@ -76,6 +76,9 @@
         "nut1": "Bat dau mien phi",
         "nut2": "Hay bat dau!"
     },
+    "paragrap1": {
+        "new1": "Khám phá những gì tất cả các buzz là về!"
+    },
     "__content__": ""
 }
 ---
