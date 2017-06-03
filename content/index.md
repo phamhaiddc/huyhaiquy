@@ -77,7 +77,8 @@
         "nut2": "Hay bat dau!"
     },
     "paragrap1": {
-        "new1": "Khám phá những gì tất cả các buzz là về!"
+        "new1": "Khám phá những gì tất cả các buzz là về!",
+        "new2": "Ứng dụng của chúng tôi có sẵn trên bất kỳ thiết bị di động! Tải xuống ngay để bắt đầu!"
     },
     "__content__": ""
 }
