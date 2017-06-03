@@ -22,6 +22,20 @@
         }
     ],
     "coppy-right-1": "Hachibi",
+    "menu_ngang": [
+        {
+            "ten1": "Tải Về",
+            "url1": ""
+        },
+        {
+            "ten1": "Tính Năng",
+            "url1": ""
+        },
+        {
+            "ten1": "Liên Hệ",
+            "url1": ""
+        }
+    ],
     "__content__": ""
 }
 ---
