@@ -72,6 +72,10 @@
             "noidung_2": "Vì chủ đề này được MIT cấp phép, bạn có thể sử dụng nó thương mại!"
         }
     ],
+    "button": {
+        "nut1": "Bat dau mien phi",
+        "nut2": ""
+    },
     "__content__": ""
 }
 ---
