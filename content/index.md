@@ -38,7 +38,7 @@
     ],
     "dieuhuong": [
         {
-            "noidung": "New Age is an app landing page that will help you beautifully showcase your new mobile app, or anything else!"
+            "noidung": " New Age là trang đích của ứng dụng giúp bạn giới thiệu ứng dụng dành cho thiết bị di động mới của bạn hoặc bất cứ thứ gì khác!"
         },
         {
             "noidung": "Bắt đầu , Kết thúc"
