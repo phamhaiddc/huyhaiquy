@@ -82,7 +82,9 @@
     },
     "paragrap2": {
         "new3": "Chúng Ta",
-        "new4": "Bạn Mới"
+        "new4": "Bạn Mới",
+        "new5": "Tính năng không giới hạn, chức năng không giới hạn",
+        "new6": "Kiểm tra những gì bạn có thể làm với chủ đề ứng dụng này!"
     },
     "paragrap_3": "",
     "__content__": ""
