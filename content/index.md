@@ -21,6 +21,7 @@
             "ten": ""
         }
     ],
+    "coppy-right-1": "Hachibi",
     "__content__": ""
 }
 ---
