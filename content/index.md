@@ -41,7 +41,7 @@
             "noidung": "New Age is an app landing page that will help you beautifully showcase your new mobile app, or anything else!"
         },
         {
-            "noidung": "HUy"
+            "noidung": "Bắt đầu , Kết thúc"
         }
     ],
     "__content__": ""
