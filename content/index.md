@@ -44,6 +44,20 @@
             "noidung": "Bắt đầu , Kết thúc"
         }
     ],
+    "dieuhuong_1": [
+        {
+            "noidung-1": "Thiết bị giả mạo"
+        },
+        {
+            "noidung-1": " Sử dụng linh hoạt"
+        },
+        {
+            "noidung-1": "Miễn phí để sử dụng"
+        },
+        {
+            "noidung-1": "Mã nguồn mở"
+        }
+    ],
     "__content__": ""
 }
 ---
