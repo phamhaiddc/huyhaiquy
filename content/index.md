@@ -74,7 +74,10 @@
     ],
     "button": {
         "nut1": "Bat dau mien phi",
-        "nut2": "Hay bat dau!"
+        "nut2": "Hay bat dau!",
+        "nut3": "Bắt Đầu Bootstrap",
+        "nut4": "",
+        "nut5": ""
     },
     "paragrap1": {
         "new1": "Khám phá những gì tất cả các buzz là về!",
