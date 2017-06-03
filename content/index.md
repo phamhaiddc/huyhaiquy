@@ -36,6 +36,14 @@
             "url1": ""
         }
     ],
+    "dieuhuong": [
+        {
+            "noidung": "New Age is an app landing page that will help you beautifully showcase your new mobile app, or anything else!"
+        },
+        {
+            "noidung": "Stop waiting. Start building."
+        }
+    ],
     "__content__": ""
 }
 ---
