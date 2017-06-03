@@ -58,6 +58,20 @@
             "noidung-1": "Mã nguồn mở"
         }
     ],
+    "dieuhuong_2": [
+        {
+            "noidung_2": "Sẵn sàng để sử dụng các mẫu thiết bị HTML / CSS, không yêu cầu Photoshop!"
+        },
+        {
+            "noidung_2": "Đặt một hình ảnh, video, hoạt hình hoặc bất cứ thứ gì khác trên màn hình!"
+        },
+        {
+            "noidung_2": "Như mọi khi, chủ đề này được tự do tải xuống và sử dụng cho bất kỳ mục đích nào!"
+        },
+        {
+            "noidung_2": "Vì chủ đề này được MIT cấp phép, bạn có thể sử dụng nó thương mại!"
+        }
+    ],
     "__content__": ""
 }
 ---
