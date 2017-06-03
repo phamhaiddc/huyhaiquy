@@ -74,7 +74,7 @@
     ],
     "button": {
         "nut1": "Bat dau mien phi",
-        "nut2": ""
+        "nut2": "Hay bat dau!"
     },
     "__content__": ""
 }
