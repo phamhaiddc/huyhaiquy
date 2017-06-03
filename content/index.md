@@ -80,6 +80,11 @@
         "new1": "Khám phá những gì tất cả các buzz là về!",
         "new2": "Ứng dụng của chúng tôi có sẵn trên bất kỳ thiết bị di động! Tải xuống ngay để bắt đầu!"
     },
+    "paragrap2": {
+        "new3": "Chúng Ta",
+        "new4": "Bạn Mới"
+    },
+    "paragrap_3": "",
     "__content__": ""
 }
 ---
